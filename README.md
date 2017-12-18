@@ -1,5 +1,9 @@
 # awesome-design-cn
 
+> 原文：[设计师资源大全中文版 ](https://github.com/jobbole/awesome-design-cn)
+
+> 作者：[jobbole](https://github.com/jobbole)
+
 设计师资源大全由[伯乐在线](http://www.jobbole.com)资源频道综合整理。目前已收录 340+ 设计类资源，包含：[ICON图标](http://hao.jobbole.com/category/design/icon-design/)、[Logo设计](http://hao.jobbole.com/category/design/logo-design/)、[PhotoShop插件](http://hao.jobbole.com/category/design/photoshop-plug-in/)、[交互设计工具](http://hao.jobbole.com/category/design/interactive-design-tools/)、[流程图](http://hao.jobbole.com/category/design/flow-chart/)、[线框图/原型图](http://hao.jobbole.com/category/design/design-wireframe/)、[设计博客](http://hao.jobbole.com/category/design/design-blog/)、[设计工具](http://hao.jobbole.com/category/design/design-tools-design/)[设计教程](http://hao.jobbole.com/category/design/design-guide/)、[设计素材](http://hao.jobbole.com/category/design/design-sucai/)、[配色方案](http://hao.jobbole.com/category/design/design-color/)、[高清图库](http://hao.jobbole.com/category/design/design-photo/)等等。
 
 ## 如何加入我们？
